@@ -1,0 +1,4 @@
+discord_webhook==0.15.0
+PuLP==2.1
+scipy==1.4.1
+pandas
